@@ -1,1 +1,1 @@
-# nigga-project
+# sigma-project
